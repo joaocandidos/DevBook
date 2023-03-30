@@ -9,4 +9,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 )
 
-require github.com/joaobcandido/operacoes v0.0.0-20230329121115-baeac9baed7e // indirect
+require (
+	github.com/badoux/checkmail v1.2.1
+	github.com/joaobcandido/operacoes v0.0.0-20230329121115-baeac9baed7e // indirect
+)
